@@ -1,0 +1,3159 @@
+{
+  "games": [
+    {
+      "game_name": "A Bug's Life",
+      "file_names": [
+        "abugs.png"
+      ]
+    },
+    {
+      "game_name": "Adventures of Lolo (Euro)",
+      "file_names": [
+        "advlolo.png"
+      ]
+    },
+    {
+      "game_name": "Akazukin Cha-Cha",
+      "file_names": [
+        "akazukin.png"
+      ]
+    },
+    {
+      "game_name": "Aladdin",
+      "file_names": [
+        "aladdin.png"
+      ]
+    },
+    {
+      "game_name": "Alfred Chicken (Japan)",
+      "file_names": [
+        "alfred.png"
+      ]
+    },
+    {
+      "game_name": "Animal Breeder",
+      "file_names": [
+        "animalbreed-1.png",
+        "animalbreed-2.png"
+      ]
+    },
+    {
+      "game_name": "Animal Breeder 2",
+      "file_names": [
+        "animalbreed2-1.png",
+        "animalbreed2-2.png",
+        "animalbreed2-3.png"
+      ]
+    },
+    {
+      "game_name": "Animal Breeder 3",
+      "file_names": [
+        "animalbreed3-1.png",
+        "animalbreed3-2.png",
+        "animalbreed3-3.png",
+        "animalbreed3-4.png",
+        "animalbreed3-5.png"
+      ]
+    },
+    {
+      "game_name": "Animaniacs",
+      "file_names": [
+        "animaniacs.png"
+      ]
+    },
+    {
+      "game_name": "Another Bible",
+      "file_names": [
+        "anotherbible-1.png",
+        "anotherbible-2.png"
+      ]
+    },
+    {
+      "game_name": "Aoki Densetsu Shoot",
+      "file_names": [
+        "aoki.png"
+      ]
+    },
+    {
+      "game_name": "Aqualife",
+      "file_names": [
+        "aqua.png"
+      ]
+    },
+    {
+      "game_name": "Arcade Classic 1 Asteroids & Missile Command",
+      "file_names": [
+        "arcadeclas1-1.png",
+        "arcadeclas1-2.png",
+        "arcadeclas1-3.png"
+      ]
+    },
+    {
+      "game_name": "Arcade Classic 2 Millipede & Centipede",
+      "file_names": [
+        "arcadeclas2-1.png",
+        "arcadeclas2-2.png",
+        "arcadeclas2-3.png"
+      ]
+    },
+    {
+      "game_name": "Arcade Classic 3 Galaga & Galaxian",
+      "file_names": [
+        "arcadeclas3-1.png",
+        "arcadeclas3-2.png"
+      ]
+    },
+    {
+      "game_name": "Arcade Classic 4 Defender & Joust",
+      "file_names": [
+        "arcadeclas4-1.png",
+        "arcadeclas4-2.png",
+        "arcadeclas4-3.png"
+      ]
+    },
+    {
+      "game_name": "Arcade Classics Battle Zone & Super Breakout",
+      "file_names": [
+        "arcadeclas-1.png",
+        "arcadeclas-2.png"
+      ]
+    },
+    {
+      "game_name": "Arle no Bouken: Mahou no Jewel",
+      "file_names": [
+        "arlebuoken.png"
+      ]
+    },
+    {
+      "game_name": "Asterix & Obelix",
+      "file_names": [
+        "obelix.png"
+      ]
+    },
+    {
+      "game_name": "Atelier Elie",
+      "file_names": [
+        "atelierelie.png"
+      ]
+    },
+    {
+      "game_name": "Atelier Marie",
+      "file_names": [
+        "ateleirmarie.png"
+      ]
+    },
+    {
+      "game_name": "Azure Dreams (USA) / Other Life: Azure Dreams GB (Japan)",
+      "file_names": [
+        "azure.png"
+      ]
+    },
+    {
+      "game_name": "B-Daman Bakugaiden: Victory eno Michi",
+      "file_names": [
+        "bdaman.png"
+      ]
+    },
+    {
+      "game_name": "Bakenoh TV '94",
+      "file_names": [
+        "bakenoh-1.png",
+        "bakenoh-2.png"
+      ]
+    },
+    {
+      "game_name": "Bakutsu Retsuden Shou Happy Fishing",
+      "file_names": [
+        "bakutsu.png"
+      ]
+    },
+    {
+      "game_name": "Balloon Fight GB",
+      "file_names": [
+        "balloon-1.png",
+        "balloon-2.png"
+      ]
+    },
+    {
+      "game_name": "Battle Arena Toshinden",
+      "file_names": [
+        "battlearena.png"
+      ]
+    },
+    {
+      "game_name": "Battle Crusher",
+      "file_names": [
+        "battlecrush.png"
+      ]
+    },
+    {
+      "game_name": "Beatmania GB",
+      "file_names": [
+        "beatmania1-1.png",
+        "beatmania1-2.png"
+      ]
+    },
+    {
+      "game_name": "Beatmania GB 2",
+      "file_names": [
+        "beatmania2-1.png",
+        "beatmania2-2.png"
+      ]
+    },
+    {
+      "game_name": "Beauty and the Beast: A Board Game Adventure",
+      "file_names": [
+        "beauty.png"
+      ]
+    },
+    {
+      "game_name": "Bikkuriman 2000: Charging Card GB",
+      "file_names": [
+        "bikiruman.png"
+      ]
+    },
+    {
+      "game_name": "Blaster Master: Enemy Below",
+      "file_names": [
+        "blaster.png"
+      ]
+    },
+    {
+      "game_name": "Block Kuzushi",
+      "file_names": [
+        "blockuzu.png"
+      ]
+    },
+    {
+      "game_name": "Bomberman GB (Japan)",
+      "file_names": [
+        "bombermangb1.png"
+      ]
+    },
+    {
+      "game_name": "Bomberman GB 2 (Japan) / Bomberman GB (USA)",
+      "file_names": [
+        "bomberusa-1.png",
+        "bomberusa-2.png"
+      ]
+    },
+    {
+      "game_name": "Bomberman GB 3",
+      "file_names": [
+        "bombermangb3-1.png",
+        "bombermangb3-2.png"
+      ]
+    },
+    {
+      "game_name": "Bomberman Collection",
+      "file_names": [
+        "bombermancol-1.png",
+        "bombermancol-2.png",
+        "bombermancol-3.png",
+        "bombermancol-4.png",
+        "bombermancol-5.png"
+      ]
+    },
+    {
+      "game_name": "Bomberman Quest",
+      "file_names": [
+        "bombquest-1.png",
+        "bombquest-2.png"
+      ]
+    },
+    {
+      "game_name": "Bonk's Revenge (USA) / BC Kid 2 (Euro) / GB Genjin 2 (Japan)",
+      "file_names": [
+        "bonkrev.png"
+      ]
+    },
+    {
+      "game_name": "Brain Drain",
+      "file_names": [
+        "brain.png"
+      ]
+    },
+    {
+      "game_name": "Bubble Bobble Classic",
+      "file_names": [
+        "bubble.png"
+      ]
+    },
+    {
+      "game_name": "Bugs Bunny Collection",
+      "file_names": [
+        "bugscol-1.png",
+        "bugscol-2.png",
+        "bugscol-3.png"
+      ]
+    },
+    {
+      "game_name": "Burger Burger Pocket",
+      "file_names": [
+        "burger.png"
+      ]
+    },
+    {
+      "game_name": "Captain Tsubasa",
+      "file_names": [
+        "captsu-1.png",
+        "captsu-2.png"
+      ]
+    },
+    {
+      "game_name": "Castlevania Legends (USA) / Akumajou Dracula: Shikkokutaru Zensoukyoku (Japan)",
+      "file_names": [
+        "castleleg.png"
+      ]
+    },
+    {
+      "game_name": "Chase H.Q. Secret Police",
+      "file_names": [
+        "chasehq.png"
+      ]
+    },
+    {
+      "game_name": "Chibi Maruko Chan: Maruko Deluxe Gekijou",
+      "file_names": [
+        "chibi.png"
+      ]
+    },
+    {
+      "game_name": "Choro Q: Hyper Custom Bull GB",
+      "file_names": [
+        "choroq-1.png",
+        "choroq-2.png",
+        "choroq-3.png",
+        "choroq-4.png"
+      ]
+    },
+    {
+      "game_name": "Chou Majin Eiyuuden Wataru: Mazekko Monster",
+      "file_names": [
+        "cmajin.png"
+      ]
+    },
+    {
+      "game_name": "Chou Majin Eiyuuden Wataru: Mazekko Monster 2",
+      "file_names": [
+        "cmajin2-1.png",
+        "cmajin2-2.png",
+        "cmajin2-3.png"
+      ]
+    },
+    {
+      "game_name": "Columns: Tezuka Osamu Characters",
+      "file_names": [
+        "columns.png"
+      ]
+    },
+    {
+      "game_name": "Conker's Pocket Tales",
+      "file_names": [
+        "conker.png"
+      ]
+    },
+    {
+      "game_name": "Crayon Shin Chan 4",
+      "file_names": [
+        "crayon4-1.png",
+        "crayon4-2.png",
+        "crayon4-3.png"
+      ]
+    },
+    {
+      "game_name": "Crayon Shin Chan 5",
+      "file_names": [
+        "crayon5.png"
+      ]
+    },
+    {
+      "game_name": "Daffy Duck: The Marvin Missions",
+      "file_names": [
+        "daffy-1.png",
+        "daffy-2.png"
+      ]
+    },
+    {
+      "game_name": "Daikaijyuu Monogatari Z: The Miracle of the Zone",
+      "file_names": [
+        "daikai.png"
+      ]
+    },
+    {
+      "game_name": "Daikaijyuu Monogatari Z: The Miracle of the Zone II",
+      "file_names": [
+        "daikai2.png"
+      ]
+    },
+    {
+      "game_name": "Daiku no Gensan: Kachikachi no Tonkachi ga Kachi",
+      "file_names": [
+        "daiku.png"
+      ]
+    },
+    {
+      "game_name": "Dear Daniel no Sweet Adventure: Kitty-chan o Sagashite",
+      "file_names": [
+        "dear.png"
+      ]
+    },
+    {
+      "game_name": "Desert Strike: Return to the Gulf",
+      "file_names": [
+        "desert.png"
+      ]
+    },
+    {
+      "game_name": "Detective Conan: Chika Yuuenchi Satsujin Jiken",
+      "file_names": [
+        "decconanchika.png"
+      ]
+    },
+    {
+      "game_name": "Detective Conan: Giwaku no Gouka Ressha",
+      "file_names": [
+        "decconangiwa.png"
+      ]
+    },
+    {
+      "game_name": "Detective Conan: Karakuri Jiin Satsujin Jiken",
+      "file_names": [
+        "decconankara.png"
+      ]
+    },
+    {
+      "game_name": "Detective Conan: Kigantou Hihou Densetsu",
+      "file_names": [
+        "decconankiga.png"
+      ]
+    },
+    {
+      "game_name": "Detective Conan: Norowareta Kouro",
+      "file_names": [
+        "decconannoro.png"
+      ]
+    },
+    {
+      "game_name": "Dino Breeder / Dino Breeder 2",
+      "file_names": [
+        "dino.png"
+      ]
+    },
+    {
+      "game_name": "Dino Breeder 3 Gaia Fukkatsu",
+      "file_names": [
+        "dino3.png"
+      ]
+    },
+    {
+      "game_name": "Dino Breeder 4",
+      "file_names": [
+        "dino4.png"
+      ]
+    },
+    {
+      "game_name": "Donkey Kong",
+      "file_names": [
+        "donkey.png"
+      ]
+    },
+    {
+      "game_name": "Donkey Kong Land (USA) / Super Donkey Kong (Japan)",
+      "file_names": [
+        "donkeyland.png"
+      ]
+    },
+    {
+      "game_name": "Donkey Kong Land 2",
+      "file_names": [
+        "donkeyland2.png"
+      ]
+    },
+    {
+      "game_name": "Donkey Kong Land 3",
+      "file_names": [
+        "donkeyland3.png"
+      ]
+    },
+    {
+      "game_name": "Doraemon DX 10",
+      "file_names": [
+        "doraemondx.png"
+      ]
+    },
+    {
+      "game_name": "Doraemon Kart",
+      "file_names": [
+        "dorakart.png"
+      ]
+    },
+    {
+      "game_name": "Doraemon Kart 2",
+      "file_names": [
+        "dorakart2.png"
+      ]
+    },
+    {
+      "game_name": "Dragon Ball Z: Goku Hishouden",
+      "file_names": [
+        "dbzgoku.png"
+      ]
+    },
+    {
+      "game_name": "Dragon Ball Z: Goku Gekitouden",
+      "file_names": [
+        "dbzgeki-1.png",
+        "dbzgeki-2.png"
+      ]
+    },
+    {
+      "game_name": "Dragon Dance",
+      "file_names": [
+        "dragondance.png"
+      ]
+    },
+    {
+      "game_name": "Dragon Warrior I & II",
+      "file_names": [
+        "drawar12-1.png",
+        "drawar12-2.png",
+        "drawar12-3.png",
+        "drawar12-4.png",
+        "drawar12-5.png",
+        "drawar12-6.png",
+        "drawar12-7.png"
+      ]
+    },
+    {
+      "game_name": "Dragon Warrior Monsters",
+      "file_names": [
+        "drawarmon1-1.png",
+        "drawarmon1-2.png",
+        "drawarmon1-3.png",
+        "drawarmon1-4.png"
+      ]
+    },
+    {
+      "game_name": "Dragon Warrior Monsters 2 Cobi's Journey / Dragon Warrior Monsters 2 Tara's Adventure",
+      "file_names": [
+        "drawarmon2-1.png",
+        "drawarmon2-2.png"
+      ]
+    },
+    {
+      "game_name": "DT: Lords of Genomes",
+      "file_names": [
+        "dtlord.png"
+      ]
+    },
+    {
+      "game_name": "Dungeon Savior",
+      "file_names": [
+        "dunsavior.png"
+      ]
+    },
+    {
+      "game_name": "DX Monopoly GB",
+      "file_names": [
+        "dxmonopoly.png"
+      ]
+    },
+    {
+      "game_name": "Exchanger",
+      "file_names": [
+        "exchange.png"
+      ]
+    },
+    {
+      "game_name": "Fairy Kitty no Kaiun Jiten: Yousei no Kuni no Uranai Shugyou",
+      "file_names": [
+        "fairy.png"
+      ]
+    },
+    {
+      "game_name": "FIFA International Soccer",
+      "file_names": [
+        "fifa.png"
+      ]
+    },
+    {
+      "game_name": "FIFA Soccer '96",
+      "file_names": [
+        "fifa96.png"
+      ]
+    },
+    {
+      "game_name": "FIFA Soccer '97",
+      "file_names": [
+        "fifa97.png"
+      ]
+    },
+    {
+      "game_name": "FIFA '98 Road To The World Cup",
+      "file_names": [
+        "fifa98.png"
+      ]
+    },
+    {
+      "game_name": "FIFA 2000",
+      "file_names": [
+        "fifa2000.png"
+      ]
+    },
+    {
+      "game_name": "From TV Animation One Piece: Maboroshi no Grand Line Boukenki!",
+      "file_names": [
+        "frommabo.png"
+      ]
+    },
+    {
+      "game_name": "From TV Animation One Piece: Yume no Luffy Kaizokudan Tanjou!",
+      "file_names": [
+        "fromyume.png"
+      ]
+    },
+    {
+      "game_name": "From TV Animation Slam Dunk: Gakeppuchi no Kesshou League",
+      "file_names": [
+        "fromslam1.png"
+      ]
+    },
+    {
+      "game_name": "From TV Animation Slam Dunk 2 Zengoku he no TIPOFF",
+      "file_names": [
+        "fromslam2-1.png",
+        "fromslam2-2.png",
+        "fromslam2-3.png",
+        "fromslam2-4.png",
+        "fromslam2-5.png",
+        "fromslam2-6.png"
+      ]
+    },
+    {
+      "game_name": "Furai no Shiren",
+      "file_names": [
+        "furai.png"
+      ]
+    },
+    {
+      "game_name": "Gameboy Gallery (Euro, Autralia)",
+      "file_names": [
+        "gamegallery-1.png",
+        "gamegallery-2.png",
+        "gamegallery-3.png",
+        "gamegallery-4.png",
+        "gamegallery-5.png",
+        "gamegallery-6.png"
+      ]
+    },
+    {
+      "game_name": "Game & Watch Gallery (USA, Euro) / Game Boy Gallery (Japan) / Game Boy Gallery 2 (Australia)",
+      "file_names": [
+        "gamewatch1-1.png",
+        "gamewatch1-2.png",
+        "gamewatch1-3.png",
+        "gamewatch1-4.png",
+        "gamewatch1-5.png",
+        "gamewatch1-6.png",
+        "gamewatch1-7.png",
+        "gamewatch1-8.png"
+      ]
+    },
+    {
+      "game_name": "Game & Watch Gallery 2 (GB and GBC versions) (USA, Euro) / Gameboy Gallery 2 (Japan) / Game Boy Gallery 3 (Australia)",
+      "file_names": [
+        "gamewatch2-1.png",
+        "gamewatch2-2.png",
+        "gamewatch2-3.png",
+        "gamewatch2-4.png",
+        "gamewatch2-5.png",
+        "gamewatch2-6.png",
+        "gamewatch2-7.png",
+        "gamewatch2-8.png",
+        "gamewatch2-9.png",
+        "gamewatch2-10.png",
+        "gamewatch2-11.png"
+      ]
+    },
+    {
+      "game_name": "Game & Watch Gallery 3 (USA, Euro) / Gameboy Gallery 3 (Japan) / Game Boy Gallery 4 (Australia)",
+      "file_names": [
+        "gamewatch3-1.png",
+        "gamewatch3-2.png",
+        "gamewatch3-3.png",
+        "gamewatch3-4.png",
+        "gamewatch3-5.png",
+        "gamewatch3-6.png",
+        "gamewatch3-7.png",
+        "gamewatch3-8.png",
+        "gamewatch3-9.png",
+        "gamewatch3-10.png",
+        "gamewatch3-11.png",
+        "gamewatch3-12.png",
+        "gamewatch3-13.png",
+        "gamewatch3-14.png",
+        "gamewatch3-15.png",
+        "gamewatch3-16.png",
+        "gamewatch3-17.png",
+        "gamewatch3-18.png",
+        "gamewatch3-19.png"
+      ]
+    },
+    {
+      "game_name": "Game de Hakken!! Tamagotchi 2",
+      "file_names": [
+        "gametama2-1.png",
+        "gametama2-2.png"
+      ]
+    },
+    {
+      "game_name": "Game de Hakken!! Tamagotchi Osucchi to Mesucchi",
+      "file_names": [
+        "gametama3-1.png",
+        "gametama3-2.png",
+        "gametama3-3.png"
+      ]
+    },
+    {
+      "game_name": "Game of Life: Jinsei Game",
+      "file_names": [
+        "gamelife-1.png",
+        "gamelife-2.png"
+      ]
+    },
+    {
+      "game_name": "Gameboy Camera",
+      "file_names": [
+        "gamecamera.png"
+      ]
+    },
+    {
+      "game_name": "Gameboy Wars Turbo",
+      "file_names": [
+        "gamewarsturbo.png"
+      ]
+    },
+    {
+      "game_name": "Gameboy Wars 2",
+      "file_names": [
+        "gamewars2.png"
+      ]
+    },
+    {
+      "game_name": "Gamera: Daikai Jukutyu Kessen",
+      "file_names": [
+        "gamera-1.png",
+        "gamera-2.png",
+        "gamera-3.png",
+        "gamera-4.png"
+      ]
+    },
+    {
+      "game_name": "Ganbare Goemon: Kurofune Tou no Nazo",
+      "file_names": [
+        "goemonkuro.png"
+      ]
+    },
+    {
+      "game_name": "Ganbare Goemon: Mononoke Douchuu Tobisuise Nabebugyou!",
+      "file_names": [
+        "goemonmono.png"
+      ]
+    },
+    {
+      "game_name": "GB Genjin Collection",
+      "file_names": [
+        "gbgenjincol-1.png",
+        "gbgenjincol-2.png"
+      ]
+    },
+    {
+      "game_name": "Genjin Cottu",
+      "file_names": [
+        "genjin.png"
+      ]
+    },
+    {
+      "game_name": "Go Go Ackman",
+      "file_names": [
+        "goack.png"
+      ]
+    },
+    {
+      "game_name": "Go Go Hitchike",
+      "file_names": [
+        "gohit-1.png",
+        "gohit-2.png",
+        "gohit-3.png"
+      ]
+    },
+    {
+      "game_name": "God Medicine: Hukkoku Han",
+      "file_names": [
+        "godmedi.png"
+      ]
+    },
+    {
+      "game_name": "Golf Daisuki: Let's Play Golf",
+      "file_names": [
+        "golfdai.png"
+      ]
+    },
+    {
+      "game_name": "Golf Ou",
+      "file_names": [
+        "golfou.png"
+      ]
+    },
+    {
+      "game_name": "Grander MUSAshi RV",
+      "file_names": [
+        "gurander-1.png",
+        "gurander-2.png",
+        "gurander-3.png"
+      ]
+    },
+    {
+      "game_name": "Great Battle Pocket",
+      "file_names": [
+        "greatbattle-1.png",
+        "greatbattle-2.png"
+      ]
+    },
+    {
+      "game_name": "Guruguru Galakedaizu",
+      "file_names": [
+        "guruguru.png"
+      ]
+    },
+    {
+      "game_name": "Hamster Paradise",
+      "file_names": [
+        "hamster.png"
+      ]
+    },
+    {
+      "game_name": "Hanasaka Tenshi Tenten-kun no Beat Breaker",
+      "file_names": [
+        "hanasaka.png"
+      ]
+    },
+    {
+      "game_name": "Harvest Moon GB (USA) / Bokujo Monogatari GB (Japan) (GB And GBC Versions)",
+      "file_names": [
+        "harvest.png"
+      ]
+    },
+    {
+      "game_name": "Hayaosi Kuizu: The King of Quiz",
+      "file_names": [
+        "hayaosi.png"
+      ]
+    },
+    {
+      "game_name": "Hello Kitty no Beads Koubou",
+      "file_names": [
+        "hellobeads.png"
+      ]
+    },
+    {
+      "game_name": "Hello Kitty no Magical Museum",
+      "file_names": [
+        "hellomagic.png"
+      ]
+    },
+    {
+      "game_name": "Hello Kitty no Sweet Adventure: Daniel-kun ni Aitai",
+      "file_names": [
+        "hellosweet.png"
+      ]
+    },
+    {
+      "game_name": "Hercules",
+      "file_names": [
+        "hercules.png"
+      ]
+    },
+    {
+      "game_name": "Hexcite: The Shapes of Victory (USA) / Glocal Hexite (Japan)",
+      "file_names": [
+        "hexite.png"
+      ]
+    },
+    {
+      "game_name": "Holy Magic Century",
+      "file_names": [
+        "holy.png"
+      ]
+    },
+    {
+      "game_name": "Honkaku Shougi: Shougi Ou",
+      "file_names": [
+        "honkaku.png"
+      ]
+    },
+    {
+      "game_name": "Honkaku Yonin Uchi Mahjong: Mahjong Ou",
+      "file_names": [
+        "honuchi.png"
+      ]
+    },
+    {
+      "game_name": "Hoshi no Kirby 2",
+      "file_names": [
+        "hoshi2.png"
+      ]
+    },
+    {
+      "game_name": "Hugo",
+      "file_names": [
+        "hugo.png"
+      ]
+    },
+    {
+      "game_name": "Hunchback of Notre Dame: Topsy Turvy Games",
+      "file_names": [
+        "hunch.png"
+      ]
+    },
+    {
+      "game_name": "Initial D Gaiden",
+      "file_names": [
+        "initial.png"
+      ]
+    },
+    {
+      "game_name": "International Rally (USA) /  Cross Country Racing (Euro) / It's a World Rally (Japan)",
+      "file_names": [
+        "intrally.png"
+      ]
+    },
+    {
+      "game_name": "International Superstar Soccer",
+      "file_names": [
+        "intsoccer.png"
+      ]
+    },
+    {
+      "game_name": "International Superstar Soccer 99",
+      "file_names": [
+        "intsoccer99.png"
+      ]
+    },
+    {
+      "game_name": "International Track & Field (USA) / Hyper Olympic Series: Track & Field GB (Japan)",
+      "file_names": [
+        "inttrack.png"
+      ]
+    },
+    {
+      "game_name": "Ironman / X-O Manowar in Heavy Metal",
+      "file_names": [
+        "ironman.png"
+      ]
+    },
+    {
+      "game_name": "Itsudemo Nyanto Wonderful",
+      "file_names": [
+        "itsudemo.png"
+      ]
+    },
+    {
+      "game_name": "J. League Big Wave Soccer",
+      "file_names": [
+        "jbig.png"
+      ]
+    },
+    {
+      "game_name": "J. League Live '95",
+      "file_names": [
+        "jleague95.png"
+      ]
+    },
+    {
+      "game_name": "J. League Supporter Soccer",
+      "file_names": [
+        "jleague.png"
+      ]
+    },
+    {
+      "game_name": "Jack no Daibouken: Daimaou no Gyakushuu",
+      "file_names": [
+        "jack.png"
+      ]
+    },
+    {
+      "game_name": "James Bond 007",
+      "file_names": [
+        "james.png"
+      ]
+    },
+    {
+      "game_name": "Jinsei Game: Tomedachi TakUSAn Tsukurouyo!",
+      "file_names": [
+        "jinsei.png"
+      ]
+    },
+    {
+      "game_name": "Jissen Mahjong Kyoshitsu",
+      "file_names": [
+        "jissen.png"
+      ]
+    },
+    {
+      "game_name": "Joryuu Janshi ni Chousen GB: Watashitachi ni Chousen Shitene",
+      "file_names": [
+        "joryuu.png"
+      ]
+    },
+    {
+      "game_name": "Jungle no Ouja Tachan",
+      "file_names": [
+        "jungle.png"
+      ]
+    },
+    {
+      "game_name": "Jurassic Park: Lost World",
+      "file_names": [
+        "jurassic.png"
+      ]
+    },
+    {
+      "game_name": "Juukou Senki: Bullet Battlers",
+      "file_names": [
+        "juukou.png"
+      ]
+    },
+    {
+      "game_name": "Kakutou Ryouri Densetsu Bistro Recipe: Gekitou Foodon Battle Hen",
+      "file_names": [
+        "kakutougekitou.png"
+      ]
+    },
+    {
+      "game_name": "Kakutou Ryouri Densetsu Bistro Recipe: Kettou Bistgarm Hen",
+      "file_names": [
+        "kakutoukettou.png"
+      ]
+    },
+    {
+      "game_name": "Kandume Monster / Kandume Monsters Parfait",
+      "file_names": [
+        "kandume.png"
+      ]
+    },
+    {
+      "game_name": "Kanji Boy",
+      "file_names": [
+        "kanji.png"
+      ]
+    },
+    {
+      "game_name": "Kanji Boy 2",
+      "file_names": [
+        "kanji2.png"
+      ]
+    },
+    {
+      "game_name": "Kanjiro",
+      "file_names": [
+        "kanjiro.png"
+      ]
+    },
+    {
+      "game_name": "Karamuchou Ziken",
+      "file_names": [
+        "karaziken.png"
+      ]
+    },
+    {
+      "game_name": "Karamuchou wa Oosawagi! Porinkiis to Okashina Nakamatachi / Karamuchou wa Oosawagi! Okawari!",
+      "file_names": [
+        "karaosa.png"
+      ]
+    },
+    {
+      "game_name": "Keitai Denjuu Telefang: Power Version (Unused ingame)",
+      "file_names": [
+        "keipow.png"
+      ]
+    },
+    {
+      "game_name": "Keitai Denjuu Telefang: Speed Version (Unused ingame)",
+      "file_names": [
+        "keispe.png"
+      ]
+    },
+    {
+      "game_name": "Kaseki Reborn",
+      "file_names": [
+        "kaseki.png"
+      ]
+    },
+    {
+      "game_name": "Kaseki Reborn II Monster Digger",
+      "file_names": [
+        "kaseki2.png"
+      ]
+    },
+    {
+      "game_name": "Katou Ichi-Ni-San Kudan: Shougi Kyoushitsu",
+      "file_names": [
+        "katou.png"
+      ]
+    },
+    {
+      "game_name": "Kawaii Pet Shop Monogatari",
+      "file_names": [
+        "kawai.png"
+      ]
+    },
+    {
+      "game_name": "Ken Griffey Jr. Presents Major League Baseball",
+      "file_names": [
+        "ken.png"
+      ]
+    },
+    {
+      "game_name": "Kettou Beast Wars: Beast Senshi Saikyou Ketteisen",
+      "file_names": [
+        "kettou.png"
+      ]
+    },
+    {
+      "game_name": "Killer Instinct",
+      "file_names": [
+        "killer.png"
+      ]
+    },
+    {
+      "game_name": "Kindaichi Shounen no Jikenbo: 10nenme no Shoutaijou",
+      "file_names": [
+        "kindaichi.png"
+      ]
+    },
+    {
+      "game_name": "King of Fighters '95",
+      "file_names": [
+        "kof95.png"
+      ]
+    },
+    {
+      "game_name": "King of Fighters: Heat of Battle",
+      "file_names": [
+        "kofheat-1.png",
+        "kofheat-2.png"
+      ]
+    },
+    {
+      "game_name": "Kinniku Banzuke GB: Chousensha wa Kimida!",
+      "file_names": [
+        "kiniku.png"
+      ]
+    },
+    {
+      "game_name": "Kinniku Banzuke GB2 Mezase! Muscle Champion",
+      "file_names": [
+        "kiniku2.png"
+      ]
+    },
+    {
+      "game_name": "Kirby no Block Ball",
+      "file_names": [
+        "kirbyno.png"
+      ]
+    },
+    {
+      "game_name": "Kirby's Block Ball",
+      "file_names": [
+        "kirbyblock.png"
+      ]
+    },
+    {
+      "game_name": "Kirby's Dream Land 2",
+      "file_names": [
+        "kirby2.png"
+      ]
+    },
+    {
+      "game_name": "Kirby's Star Stacker / Kirby no Kira Kira Kids",
+      "file_names": [
+        "kirbystar-1.png",
+        "kirbystar-2.png"
+      ]
+    },
+    {
+      "game_name": "Kitarou",
+      "file_names": [
+        "kitarou.png"
+      ]
+    },
+    {
+      "game_name": "Koguru Guruguru: Guruguru to Nakayoshi",
+      "file_names": [
+        "koguru.png"
+      ]
+    },
+    {
+      "game_name": "Kokiatsu Boy",
+      "file_names": [
+        "kokiatsu.png"
+      ]
+    },
+    {
+      "game_name": "Konami GB Collection Vol. 1",
+      "file_names": [
+        "konamigb1-1.png",
+        "konamigb1-2.png",
+        "konamigb1-3.png",
+        "konamigb1-4.png"
+      ]
+    },
+    {
+      "game_name": "Konami GB Collection Vol. 2",
+      "file_names": [
+        "konamigb2-1.png",
+        "konamigb2-2.png",
+        "konamigb2-3.png",
+        "konamigb2-4.png"
+      ]
+    },
+    {
+      "game_name": "Konami GB Collection Vol. 3",
+      "file_names": [
+        "konamigb3-1.png",
+        "konamigb3-2.png",
+        "konamigb3-3.png",
+        "konamigb3-4.png"
+      ]
+    },
+    {
+      "game_name": "Konami GB Collection Vol. 4",
+      "file_names": [
+        "konamigb4-1.png",
+        "konamigb4-2.png",
+        "konamigb4-3.png",
+        "konamigb4-4.png"
+      ]
+    },
+    {
+      "game_name": "Konchu Hakase",
+      "file_names": [
+        "konchu.png"
+      ]
+    },
+    {
+      "game_name": "Konchu Hakase 2",
+      "file_names": [
+        "konchu2.png"
+      ]
+    },
+    {
+      "game_name": "Koushien Pocket",
+      "file_names": [
+        "koushien.png"
+      ]
+    },
+    {
+      "game_name": "Kumano Putaru",
+      "file_names": [
+        "kumano.png"
+      ]
+    },
+    {
+      "game_name": "Kuusou Kagaku Sekai Gulliver Boy: Kuusou Kagaku Puzzle Purittopon!!",
+      "file_names": [
+        "kusou.png"
+      ]
+    },
+    {
+      "game_name": "Legend of the River King GB (USA) / Legend of the River King GBC (USA) / Gawa no Kawanushi 3 (Japan)",
+      "file_names": [
+        "legriver-1.png",
+        "legriver-2.png",
+        "legriver-3.png",
+        "legriver-4.png"
+      ]
+    },
+    {
+      "game_name": "Legend of Zelda: Link's Awakening DX / Zelda no Densetsu: Yume o Miru Shima DX",
+      "file_names": [
+        "legzelda.png"
+      ]
+    },
+    {
+      "game_name": "Lil' Monster (USA) / Gem Gem Monster (Japan)",
+      "file_names": [
+        "lil.png"
+      ]
+    },
+    {
+      "game_name": "Little Indian in Big City",
+      "file_names": [
+        "little.png"
+      ]
+    },
+    {
+      "game_name": "Lodoss Tou Senki: Eiyuu Kishiden GB",
+      "file_names": [
+        "lodoss-1.png",
+        "lodoss-2.png"
+      ]
+    },
+    {
+      "game_name": "Loppi Puzzle Magazine: Hirameku 2 / Hirameku Puzzle Dai-2-Gou / Hirameku Puzzle Dai-3-Gou / Hirameku Puzzle Soukangou / Kangaeru Puzzle Dai-2-Gou / Kangaeru Puzzle Dai-3-Gou / Kangaeru Puzzle Soukangou",
+      "file_names": [
+        "loppi.png"
+      ]
+    },
+    {
+      "game_name": "Luca no Puzzle de Daibouken!",
+      "file_names": [
+        "luca.png"
+      ]
+    },
+    {
+      "game_name": "Mach Go Go Go",
+      "file_names": [
+        "mach.png"
+      ]
+    },
+    {
+      "game_name": "Madden '96",
+      "file_names": [
+        "maden96.png"
+      ]
+    },
+    {
+      "game_name": "Madden '97",
+      "file_names": [
+        "maden97.png"
+      ]
+    },
+    {
+      "game_name": "Madden NFL 2000",
+      "file_names": [
+        "maden2000.png"
+      ]
+    },
+    {
+      "game_name": "Mahjong Joou",
+      "file_names": [
+        "mahjou.png"
+      ]
+    },
+    {
+      "game_name": "Mahjong Quest",
+      "file_names": [
+        "mahquest.png"
+      ]
+    },
+    {
+      "game_name": "Mahou Kishi Rayearth",
+      "file_names": [
+        "mahou1-1.png",
+        "mahou1-2.png",
+        "mahou1-3.png",
+        "mahou1-4.png",
+        "mahou1-5.png"
+      ]
+    },
+    {
+      "game_name": "Mahou Kishi Rayearth 2",
+      "file_names": [
+        "mahou2.png"
+      ]
+    },
+    {
+      "game_name": "Mahoujin Guru Guru",
+      "file_names": [
+        "mahoujin.png"
+      ]
+    },
+    {
+      "game_name": "Majokko Mari-chan no Kisekae Monogatari",
+      "file_names": [
+        "majoko.png"
+      ]
+    },
+    {
+      "game_name": "Mario's Picross (USA)",
+      "file_names": [
+        "mariopicross-1.png",
+        "mariopicross-2.png",
+        "mariopicross-3.png",
+        "mariopicross-4.png",
+        "mariopicross-5.png",
+        "mariopicross-6.png",
+        "mariopicross-7.png"
+      ]
+    },
+    {
+      "game_name": "Mario No Picross (Japan)",
+      "file_names": [
+        "mariono-1.png",
+        "mariono-2.png",
+        "mariono-3.png",
+        "mariono-4.png",
+        "mariono-5.png",
+        "mariono-6.png",
+        "mariono-7.png"
+      ]
+    },
+    {
+      "game_name": "Marmalade Boy",
+      "file_names": [
+        "marmalade.png"
+      ]
+    },
+    {
+      "game_name": "Masakari Densetsu Kintarou RPG Hen",
+      "file_names": [
+        "masakari-1.png",
+        "masakari-2.png",
+        "masakari-3.png"
+      ]
+    },
+    {
+      "game_name": "Matthias Sammer Soccer",
+      "file_names": [
+        "mathias.png"
+      ]
+    },
+    {
+      "game_name": "Medarot Kabuto",
+      "file_names": [
+        "medakabu.png"
+      ]
+    },
+    {
+      "game_name": "Medarot Kuwagata",
+      "file_names": [
+        "medakawa.png"
+      ]
+    },
+    {
+      "game_name": "Medarot Parts Collection: Medarot Kuma",
+      "file_names": [
+        "medaparts.png"
+      ]
+    },
+    {
+      "game_name": "Medarot Parts Collection 2",
+      "file_names": [
+        "medaparts2.png"
+      ]
+    },
+    {
+      "game_name": "Medarot 2 Kabuto",
+      "file_names": [
+        "meda2kabu.png"
+      ]
+    },
+    {
+      "game_name": "Medarot 2 Kuwagata",
+      "file_names": [
+        "meda2kuwa.png"
+      ]
+    },
+    {
+      "game_name": "Medarot 2 Parts Collection",
+      "file_names": [
+        "meda2part.png"
+      ]
+    },
+    {
+      "game_name": "Medarot Cardrobottle: Kabuto Version",
+      "file_names": [
+        "medacardkabu.png"
+      ]
+    },
+    {
+      "game_name": "Medarot Cardrobottle: Kuwagata Version",
+      "file_names": [
+        "medacardkuwa.png"
+      ]
+    },
+    {
+      "game_name": "Mega Man 5 / Rockman World 5",
+      "file_names": [
+        "megaman5.png"
+      ]
+    },
+    {
+      "game_name": "Megami Tensei Gaiden: Last Bible II",
+      "file_names": [
+        "megami2.png"
+      ]
+    },
+    {
+      "game_name": "Men In Black: The Series",
+      "file_names": [
+        "men.png"
+      ]
+    },
+    {
+      "game_name": "Mickey Mouse: Magic Wand",
+      "file_names": [
+        "mickeymagic.png"
+      ]
+    },
+    {
+      "game_name": "Mickey Mouse: Tokyo Disneyland",
+      "file_names": [
+        "mickeytokio.png"
+      ]
+    },
+    {
+      "game_name": "Midorin Omaki Baoo",
+      "file_names": [
+        "midorin-1.png",
+        "midorin-2.png"
+      ]
+    },
+    {
+      "game_name": "Mighty Morphin Power Rangers",
+      "file_names": [
+        "mmpr.png"
+      ]
+    },
+    {
+      "game_name": "Mighty Morphin Power Rangers: The Movie",
+      "file_names": [
+        "mmprmovie.png"
+      ]
+    },
+    {
+      "game_name": "Mini 4 Boy",
+      "file_names": [
+        "mini4.png"
+      ]
+    },
+    {
+      "game_name": "Mini 4 Boy II Final Evolution",
+      "file_names": [
+        "mini42-1.png",
+        "mini42-2.png"
+      ]
+    },
+    {
+      "game_name": "Mini-Yonku GB: Let's and Go!!",
+      "file_names": [
+        "mini.png"
+      ]
+    },
+    {
+      "game_name": "Mini-Yonku GB: Let's and Go!! All-Star Battle MAX",
+      "file_names": [
+        "minimax.png"
+      ]
+    },
+    {
+      "game_name": "Mogu Mogu Gombo",
+      "file_names": [
+        "mogu.png"
+      ]
+    },
+    {
+      "game_name": "Mogu Mogu Q",
+      "file_names": [
+        "moguq-1.png",
+        "moguq-2.png",
+        "moguq-3.png",
+        "moguq-4.png",
+        "moguq-5.png",
+        "moguq-6.png",
+        "moguq-7.png",
+        "moguq-8.png",
+        "moguq-9.png"
+      ]
+    },
+    {
+      "game_name": "Mogura~Nya",
+      "file_names": [
+        "mogura.png"
+      ]
+    },
+    {
+      "game_name": "Mole Mania",
+      "file_names": [
+        "mole.png"
+      ]
+    },
+    {
+      "game_name": "Momotaro Collection",
+      "file_names": [
+        "momo1-1.png",
+        "momo1-2.png"
+      ]
+    },
+    {
+      "game_name": "Momotaro Collection 2",
+      "file_names": [
+        "momocol2-1.png",
+        "momocol2-2.png"
+      ]
+    },
+    {
+      "game_name": "Momotaro Dengeki 2",
+      "file_names": [
+        "momoden2.png"
+      ]
+    },
+    {
+      "game_name": "Momotetsu Jr.",
+      "file_names": [
+        "momojr.png"
+      ]
+    },
+    {
+      "game_name": "Money Idol Exchanger",
+      "file_names": [
+        "moneyidol.png"
+      ]
+    },
+    {
+      "game_name": "Monkey Puncher (Euro) / Saru Puncher (Japan)",
+      "file_names": [
+        "monkey.png"
+      ]
+    },
+    {
+      "game_name": "Monopoly (Japan) (GBC Version)",
+      "file_names": [
+        "monopoly.png"
+      ]
+    },
+    {
+      "game_name": "Monster Rancher Battle Card GB (USA) / Monster Farm Battle Card (Japan)",
+      "file_names": [
+        "monsterranch.png"
+      ]
+    },
+    {
+      "game_name": "Monster Race",
+      "file_names": [
+        "monsterrace.png"
+      ]
+    },
+    {
+      "game_name": "Monster Race Other",
+      "file_names": [
+        "monsterraceother.png"
+      ]
+    },
+    {
+      "game_name": "Monster Race 2",
+      "file_names": [
+        "monsterrace2.png"
+      ]
+    },
+    {
+      "game_name": "Mortal Kombat 4",
+      "file_names": [
+        "mortal4.png"
+      ]
+    },
+    {
+      "game_name": "Mulan",
+      "file_names": [
+        "mulan.png"
+      ]
+    },
+    {
+      "game_name": "Mystical Ninja Starring Goemon",
+      "file_names": [
+        "mystical.png"
+      ]
+    },
+    {
+      "game_name": "Namco Gallery Volume 1",
+      "file_names": [
+        "namco1-1.png",
+        "namco1-2.png",
+        "namco1-3.png",
+        "namco1-4.png",
+        "namco1-5.png"
+      ]
+    },
+    {
+      "game_name": "Namco Gallery Volume 2",
+      "file_names": [
+        "namco2-1.png",
+        "namco2-2.png",
+        "namco2-3.png",
+        "namco2-4.png",
+        "namco2-5.png"
+      ]
+    },
+    {
+      "game_name": "Namco Gallery Volume 3",
+      "file_names": [
+        "namco3-1.png",
+        "namco3-2.png",
+        "namco3-3.png",
+        "namco3-4.png",
+        "namco3-5.png"
+      ]
+    },
+    {
+      "game_name": "NBA 3 on 3 Featuring Kobe Bryant",
+      "file_names": [
+        "nba3on3.png"
+      ]
+    },
+    {
+      "game_name": "NBA In The Zone (USA) / NBA Pro '99 (Euro)",
+      "file_names": [
+        "nbazone-1.png",
+        "nbazone-2.png"
+      ]
+    },
+    {
+      "game_name": "NBA Live 96",
+      "file_names": [
+        "nbalive.png"
+      ]
+    },
+    {
+      "game_name": "Nectaris GB",
+      "file_names": [
+        "nectaris.png"
+      ]
+    },
+    {
+      "game_name": "Nettou Garou 2",
+      "file_names": [
+        "netgarou2.png"
+      ]
+    },
+    {
+      "game_name": "Nettou King of Fighters '95",
+      "file_names": [
+        "netkof95.png"
+      ]
+    },
+    {
+      "game_name": "Nettou King of Fighters '96",
+      "file_names": [
+        "netkof96-1.png",
+        "netkof96-2.png"
+      ]
+    },
+    {
+      "game_name": "Nettou Real Bout Special Garou Densetsu",
+      "file_names": [
+        "netreal.png"
+      ]
+    },
+    {
+      "game_name": "Nettou Samurai Spirits Zankuro Musouken",
+      "file_names": [
+        "netsamurai-1.png",
+        "netsamurai-2.png",
+        "netsamurai-3.png",
+        "netsamurai-4.png"
+      ]
+    },
+    {
+      "game_name": "Nettou Toushinden",
+      "file_names": [
+        "nettosh.png"
+      ]
+    },
+    {
+      "game_name": "Nettou World Heroes 2 Jet",
+      "file_names": [
+        "networld.png"
+      ]
+    },
+    {
+      "game_name": "New SD Gundam",
+      "file_names": [
+        "newsd.png"
+      ]
+    },
+    {
+      "game_name": "NHL Hockey 95",
+      "file_names": [
+        "nhl95.png"
+      ]
+    },
+    {
+      "game_name": "NHL Hockey 96",
+      "file_names": [
+        "nhl96.png"
+      ]
+    },
+    {
+      "game_name": "NHL 2000",
+      "file_names": [
+        "nhl2000.png"
+      ]
+    },
+    {
+      "game_name": "Nihon Daiyou Soccer",
+      "file_names": [
+        "nihon.png"
+      ]
+    },
+    {
+      "game_name": "Ninku",
+      "file_names": [
+        "ninku.png"
+      ]
+    },
+    {
+      "game_name": "Ninku Dai 2 Ninku Sensou Hen",
+      "file_names": [
+        "ninku2-1.png",
+        "ninku2-2.png",
+        "ninku2-3.png"
+      ]
+    },
+    {
+      "game_name": "Nintama Rantarou: Ninjutsu Gakuen ni Nyuugakushou no Dan",
+      "file_names": [
+        "nintama.png"
+      ]
+    },
+    {
+      "game_name": "Nintama Rantarou GB Eawase Challenge Puzzle",
+      "file_names": [
+        "nintamapuz.png"
+      ]
+    },
+    {
+      "game_name": "Nobunaga no Yabou: Game Boy Ban 2 (Unused ingame)",
+      "file_names": [
+        "nobunaga2.png"
+      ]
+    },
+    {
+      "game_name": "Ohasta Yamachan & Reimondo",
+      "file_names": [
+        "ohasta.png"
+      ]
+    },
+    {
+      "game_name": "Olympic Summer Games",
+      "file_names": [
+        "olympic.png"
+      ]
+    },
+    {
+      "game_name": "Oni V: Innin wo Tsugumono",
+      "file_names": [
+        "oni5.png"
+      ]
+    },
+    {
+      "game_name": "Othello World",
+      "file_names": [
+        "othelo-1.png",
+        "othelo-2.png"
+      ]
+    },
+    {
+      "game_name": "Otogi Banasi Tai",
+      "file_names": [
+        "otogi.png"
+      ]
+    },
+    {
+      "game_name": "Ou Dorobou Jing: Angel Version / Ou Dorobou Jing: Devil Version",
+      "file_names": [
+        "ou.png"
+      ]
+    },
+    {
+      "game_name": "Owarai Yowiko no Game-dou: Oyaji Sagashite Sanchoume",
+      "file_names": [
+        "owarai.png"
+      ]
+    },
+    {
+      "game_name": "Pac-In-Time",
+      "file_names": [
+        "pac.png"
+      ]
+    },
+    {
+      "game_name": "Pachi Pachi Pachi-Slot: New Pulsar Hen",
+      "file_names": [
+        "pachi.png"
+      ]
+    },
+    {
+      "game_name": "Pachinko CR Daiku no Gen San GB",
+      "file_names": [
+        "pachinkocr.png"
+      ]
+    },
+    {
+      "game_name": "Pachinko Data Card: Chou Ataru Kun",
+      "file_names": [
+        "pachinkodata.png"
+      ]
+    },
+    {
+      "game_name": "Pachinko Gaiden",
+      "file_names": [
+        "pachinkogai.png"
+      ]
+    },
+    {
+      "game_name": "Pagemaster",
+      "file_names": [
+        "page.png"
+      ]
+    },
+    {
+      "game_name": "PGA European Tour",
+      "file_names": [
+        "pga.png"
+      ]
+    },
+    {
+      "game_name": "PGA Tour '96",
+      "file_names": [
+        "pga96.png"
+      ]
+    },
+    {
+      "game_name": "Phantom Zona",
+      "file_names": [
+        "phantom-1.png",
+        "phantom-2.png",
+        "phantom-3.png"
+      ]
+    },
+    {
+      "game_name": "Picross 2",
+      "file_names": [
+        "picross2-1.png",
+        "picross2-2.png",
+        "picross2-3.png",
+        "picross2-4.png",
+        "picross2-5.png",
+        "picross2-6.png",
+        "picross2-7.png"
+      ]
+    },
+    {
+      "game_name": "Pocahontas",
+      "file_names": [
+        "poca.png"
+      ]
+    },
+    {
+      "game_name": "Pocket Bomberman (USA)",
+      "file_names": [
+        "pocbomb-1.png",
+        "pocbomb-2.png"
+      ]
+    },
+    {
+      "game_name": "Pocket Bomberman (Japan)",
+      "file_names": [
+        "pocbombj-1.png",
+        "pocbombj-2.png"
+      ]
+    },
+    {
+      "game_name": "Pocket Camera",
+      "file_names": [
+        "poccamera.png"
+      ]
+    },
+    {
+      "game_name": "Pocket Collection",
+      "file_names": [
+        "poccol.png"
+      ]
+    },
+    {
+      "game_name": "Pocket Color Block",
+      "file_names": [
+        "poccolor.png"
+      ]
+    },
+    {
+      "game_name": "Pocket Densha",
+      "file_names": [
+        "pocden1-1.png",
+        "pocden1-2.png",
+        "pocden1-3.png",
+        "pocden1-4.png",
+        "pocden1-5.png",
+        "pocden1-6.png"
+      ]
+    },
+    {
+      "game_name": "Pocket Densha 2",
+      "file_names": [
+        "pocden2-1.png",
+        "pocden2-2.png"
+      ]
+    },
+    {
+      "game_name": "Pocket Family",
+      "file_names": [
+        "pocfam.png"
+      ]
+    },
+    {
+      "game_name": "Pocket GI Stable",
+      "file_names": [
+        "pocgi.png"
+      ]
+    },
+    {
+      "game_name": "Pocket Jockey",
+      "file_names": [
+        "pocjock.png"
+      ]
+    },
+    {
+      "game_name": "Pocket Kyorochan",
+      "file_names": [
+        "pockyo.png"
+      ]
+    },
+    {
+      "game_name": "Pocket Love",
+      "file_names": [
+        "poclov.png"
+      ]
+    },
+    {
+      "game_name": "Pocket Love 2",
+      "file_names": [
+        "poclov2.png"
+      ]
+    },
+    {
+      "game_name": "Pocket Monsters Green",
+      "file_names": [
+        "pomongreen.png"
+      ]
+    },
+    {
+      "game_name": "Pocket Monsters Red",
+      "file_names": [
+        "pomonred.png"
+      ]
+    },
+    {
+      "game_name": "Pocket Monsters Blue",
+      "file_names": [
+        "pomonblue.png"
+      ]
+    },
+    {
+      "game_name": "Pocket Monsters Pikachu",
+      "file_names": [
+        "pomonpika.png"
+      ]
+    },
+    {
+      "game_name": "Pocket Monsters Kin",
+      "file_names": [
+        "pomongold.png"
+      ]
+    },
+    {
+      "game_name": "Pocket Monsters Kin (Beta)",
+      "file_names": [
+        "pomongoldbeta.png"
+      ]
+    },
+    {
+      "game_name": "Pocket Monsters Gin",
+      "file_names": [
+        "pomonsil.png"
+      ]
+    },
+    {
+      "game_name": "Pocket Monsters Gin (Beta)",
+      "file_names": [
+        "pomonsilbeta.png"
+      ]
+    },
+    {
+      "game_name": "Pocket Monsters Pinball",
+      "file_names": [
+        "pomonpin.png"
+      ]
+    },
+    {
+      "game_name": "Pocket Monsters Trading Card Game",
+      "file_names": [
+        "pomontrade-1.png",
+        "pomontrade-2.png",
+        "pomontrade-3.png",
+        "pomontrade-4.png"
+      ]
+    },
+    {
+      "game_name": "Pocket Puyo Puyo 2",
+      "file_names": [
+        "pocpuyo2.png"
+      ]
+    },
+    {
+      "game_name": "Pocket Puyo Sun",
+      "file_names": [
+        "pocpuyosun.png"
+      ]
+    },
+    {
+      "game_name": "Pocket Shougi",
+      "file_names": [
+        "pocghougi.png"
+      ]
+    },
+    {
+      "game_name": "Pokemon Blue",
+      "file_names": [
+        "pokeblue.png"
+      ]
+    },
+    {
+      "game_name": "Pokemon Azul",
+      "file_names": [
+        "pokeazul.png"
+      ]
+    },
+    {
+      "game_name": "Pokemon Blaue Edition",
+      "file_names": [
+        "pokeblaue.png"
+      ]
+    },
+    {
+      "game_name": "Pokemon Bleue",
+      "file_names": [
+        "pokebleue.png"
+      ]
+    },
+    {
+      "game_name": "Pokemon Blu",
+      "file_names": [
+        "pokeblu.png"
+      ]
+    },
+    {
+      "game_name": "Pokemon Red",
+      "file_names": [
+        "pokered.png"
+      ]
+    },
+    {
+      "game_name": "Pokemon Roja",
+      "file_names": [
+        "pokeroja.png"
+      ]
+    },
+    {
+      "game_name": "Pokemon Rossa",
+      "file_names": [
+        "pokerossa.png"
+      ]
+    },
+    {
+      "game_name": "Pokemon Rote Edition",
+      "file_names": [
+        "pokerote.png"
+      ]
+    },
+    {
+      "game_name": "Pokemon Rouge",
+      "file_names": [
+        "pokerouge.png"
+      ]
+    },
+    {
+      "game_name": "Pokemon Yellow Version: Special Pikachu Edition",
+      "file_names": [
+        "pokeyellow.png"
+      ]
+    },
+    {
+      "game_name": "Pokemon Amarillo",
+      "file_names": [
+        "pokeama.png"
+      ]
+    },
+    {
+      "game_name": "Pokemon Gelb",
+      "file_names": [
+        "pokegelb.png"
+      ]
+    },
+    {
+      "game_name": "Pokemon Gialla",
+      "file_names": [
+        "pokegialla.png"
+      ]
+    },
+    {
+      "game_name": "Pokemon Jaune",
+      "file_names": [
+        "pokejaune.png"
+      ]
+    },
+    {
+      "game_name": "Pokemon Gold Version",
+      "file_names": [
+        "pokegold.png"
+      ]
+    },
+    {
+      "game_name": "Pokemon Version Or",
+      "file_names": [
+        "pokeor.png"
+      ]
+    },
+    {
+      "game_name": "Pokemon Goldene Edition",
+      "file_names": [
+        "pokegoldene.png"
+      ]
+    },
+    {
+      "game_name": "Pokemon Versione Oro",
+      "file_names": [
+        "pokevoro.png"
+      ]
+    },
+    {
+      "game_name": "Pokemon Edicion Oro",
+      "file_names": [
+        "pokeoro.png"
+      ]
+    },
+    {
+      "game_name": "Pokemon Silver Version",
+      "file_names": [
+        "pokesilver.png"
+      ]
+    },
+    {
+      "game_name": "Pokemon Version Argent",
+      "file_names": [
+        "pokeargent.png"
+      ]
+    },
+    {
+      "game_name": "Pokemon Silberne Edition",
+      "file_names": [
+        "pokesilber.png"
+      ]
+    },
+    {
+      "game_name": "Pokemon Versione Argento",
+      "file_names": [
+        "pokeargento.png"
+      ]
+    },
+    {
+      "game_name": "Pokemon Edicion Plata",
+      "file_names": [
+        "pokeplata.png"
+      ]
+    },
+    {
+      "game_name": "Pokemon Pinball (USA)",
+      "file_names": [
+        "pokepin.png"
+      ]
+    },
+    {
+      "game_name": "Pokemon Pinball (Euro)",
+      "file_names": [
+        "pokepineuro.png"
+      ]
+    },
+    {
+      "game_name": "Pokemon Trading Card Game",
+      "file_names": [
+        "poketrading-1.png",
+        "poketrading-2.png",
+        "poketrading-3.png",
+        "poketrading-4.png"
+      ]
+    },
+    {
+      "game_name": "Pocket Kanjiro",
+      "file_names": [
+        "pockan.png"
+      ]
+    },
+    {
+      "game_name": "Pokonyan! Yume no Diabuken",
+      "file_names": [
+        "ponko-1.png",
+        "ponko-2.png",
+        "ponko-3.png",
+        "ponko-4.png",
+        "ponko-5.png"
+      ]
+    },
+    {
+      "game_name": "Power Pro GB",
+      "file_names": [
+        "powerpro.png"
+      ]
+    },
+    {
+      "game_name": "Power Pro Kun Pocket",
+      "file_names": [
+        "powpro1.png"
+      ]
+    },
+    {
+      "game_name": "Power Pro Kun Pocket 2",
+      "file_names": [
+        "powpro2.png"
+      ]
+    },
+    {
+      "game_name": "Power Quest (USA) / Power Quest: Gekitou Power Modeler",
+      "file_names": [
+        "powquest.png"
+      ]
+    },
+    {
+      "game_name": "Poyon no Dungeon Room",
+      "file_names": [
+        "poyon.png"
+      ]
+    },
+    {
+      "game_name": "Pro Mahjong Kiwame GB",
+      "file_names": [
+        "prokiwa.png"
+      ]
+    },
+    {
+      "game_name": "Pro Mahjong Kiwame GB II",
+      "file_names": [
+        "prokiwa2.png"
+      ]
+    },
+    {
+      "game_name": "Pro Mahjong Tsuwamono",
+      "file_names": [
+        "protsu.png"
+      ]
+    },
+    {
+      "game_name": "Puchi Carat",
+      "file_names": [
+        "puchi.png"
+      ]
+    },
+    {
+      "game_name": "Purikura Pocket",
+      "file_names": [
+        "puri1.png"
+      ]
+    },
+    {
+      "game_name": "Purikura Pocket 2",
+      "file_names": [
+        "puri2.png"
+      ]
+    },
+    {
+      "game_name": "Purikura Pocket 3",
+      "file_names": [
+        "puri3.png"
+      ]
+    },
+    {
+      "game_name": "Puyo Puyo Gaiden: Puyo Wars",
+      "file_names": [
+        "puyogai.png"
+      ]
+    },
+    {
+      "game_name": "Puzzle Nintama Rantarou",
+      "file_names": [
+        "puzzle-1.png",
+        "puzzle-2.png"
+      ]
+    },
+    {
+      "game_name": "Quest: Fantasy Challenge",
+      "file_names": [
+        "quest.png"
+      ]
+    },
+    {
+      "game_name": "Quest for Camelot",
+      "file_names": [
+        "questcam.png"
+      ]
+    },
+    {
+      "game_name": "Real Pro Yakyuu! Central League Hen / Real Pro Yakyuu! Pacific League Hen",
+      "file_names": [
+        "realpro.png"
+      ]
+    },
+    {
+      "game_name": "Retrieve",
+      "file_names": [
+        "retrieve.png"
+      ]
+    },
+    {
+      "game_name": "Revelations: The Demon Slayer / Megami Tensei Gaiden: Last Bible",
+      "file_names": [
+        "rev.png"
+      ]
+    },
+    {
+      "game_name": "Roadsters '98",
+      "file_names": [
+        "road.png"
+      ]
+    },
+    {
+      "game_name": "Robopon: Sun Version",
+      "file_names": [
+        "robosun.png"
+      ]
+    },
+    {
+      "game_name": "Robot Poncots: Comic Bom Bom Special Version",
+      "file_names": [
+        "robponbom.png"
+      ]
+    },
+    {
+      "game_name": "Robot Poncots: Moon Version",
+      "file_names": [
+        "robponmoon.png"
+      ]
+    },
+    {
+      "game_name": "Robot Poncots: Star Version",
+      "file_names": [
+        "robponstar.png"
+      ]
+    },
+    {
+      "game_name": "Robot Poncots: Sun Version",
+      "file_names": [
+        "robponsun.png"
+      ]
+    },
+    {
+      "game_name": "Rock 'N Monster",
+      "file_names": [
+        "rockn-1.png",
+        "rockn-2.png",
+        "rockn-3.png",
+        "rockn-4.png",
+        "rockn-5.png",
+        "rockn-6.png",
+        "rockn-7.png",
+        "rockn-8.png",
+        "rockn-9.png",
+        "rockn-10.png",
+        "rockn-11.png"
+      ]
+    },
+    {
+      "game_name": "Rugrats Movie",
+      "file_names": [
+        "rugmovie.png"
+      ]
+    },
+    {
+      "game_name": "Sakata Gorou Kudan no Renju Kyoushitsu",
+      "file_names": [
+        "sakata.png"
+      ]
+    },
+    {
+      "game_name": "Same Game",
+      "file_names": [
+        "same-1.png",
+        "same-2.png"
+      ]
+    },
+    {
+      "game_name": "San Goku Shi: GameBoy Ban 2",
+      "file_names": [
+        "san.png"
+      ]
+    },
+    {
+      "game_name": "Sanrio Timenet: Kako Hen",
+      "file_names": [
+        "sanrio.png"
+      ]
+    },
+    {
+      "game_name": "SD Hiryu no Ken Gaiden",
+      "file_names": [
+        "sdgai1.png"
+      ]
+    },
+    {
+      "game_name": "SD Hiryu no Ken Gaiden 2",
+      "file_names": [
+        "sdgai2.png"
+      ]
+    },
+    {
+      "game_name": "SD Hiryuu no Ken EX",
+      "file_names": [
+        "sdex.png"
+      ]
+    },
+    {
+      "game_name": "Sei Hai Densetsu",
+      "file_names": [
+        "saihai.png"
+      ]
+    },
+    {
+      "game_name": "Selection 1&2",
+      "file_names": [
+        "selection-1.png",
+        "selection-2.png"
+      ]
+    },
+    {
+      "game_name": "Senkai Ibonroku Juntei Taisen: TV Animation Senkaiden Houshin Engi Yori",
+      "file_names": [
+        "senkai.png"
+      ]
+    },
+    {
+      "game_name": "Shanghai Pocket (Japan)",
+      "file_names": [
+        "shangj.png"
+      ]
+    },
+    {
+      "game_name": "Shanghai Pocket (USA)",
+      "file_names": [
+        "shang.png"
+      ]
+    },
+    {
+      "game_name": "Shaq Fu",
+      "file_names": [
+        "shaq.png"
+      ]
+    },
+    {
+      "game_name": "Shin Megami Tensei Devil Children: Aka no Shou",
+      "file_names": [
+        "shinaka.png"
+      ]
+    },
+    {
+      "game_name": "Shin Megami Tensei Devil Children: Kuro no Shou",
+      "file_names": [
+        "shinkuro.png"
+      ]
+    },
+    {
+      "game_name": "Shougi Saikyo",
+      "file_names": [
+        "shougi.png"
+      ]
+    },
+    {
+      "game_name": "Shutokou Racing",
+      "file_names": [
+        "shuto.png"
+      ]
+    },
+    {
+      "game_name": "Small Soldiers",
+      "file_names": [
+        "small.png"
+      ]
+    },
+    {
+      "game_name": "Smurfs",
+      "file_names": [
+        "smurfs-1.png",
+        "smurfs-2.png",
+        "smurfs-3.png"
+      ]
+    },
+    {
+      "game_name": "Snoopy no Hajimete no Otsukai",
+      "file_names": [
+        "snoopy.png"
+      ]
+    },
+    {
+      "game_name": "Space Invaders",
+      "file_names": [
+        "space-1.png",
+        "space-2.png"
+      ]
+    },
+    {
+      "game_name": "Spirou",
+      "file_names": [
+        "spirou.png"
+      ]
+    },
+    {
+      "game_name": "Sports Illustrated Golf Classic",
+      "file_names": [
+        "sports.png"
+      ]
+    },
+    {
+      "game_name": "SS Spinner: Yo for it",
+      "file_names": [
+        "ssspiner.png"
+      ]
+    },
+    {
+      "game_name": "Star Ocean: Blue Sphere",
+      "file_names": [
+        "starocean.png"
+      ]
+    },
+    {
+      "game_name": "Star Sweep",
+      "file_names": [
+        "starsweep-1.png",
+        "starsweep-2.png",
+        "starsweep-3.png",
+        "starsweep-4.png"
+      ]
+    },
+    {
+      "game_name": "Star Wars: Super Return of the Jedi",
+      "file_names": [
+        "starwars.png"
+      ]
+    },
+    {
+      "game_name": "Street Fighter II",
+      "file_names": [
+        "sf2-1.png",
+        "sf2-2.png",
+        "sf2-3.png",
+        "sf2-4.png",
+        "sf2-5.png",
+        "sf2-6.png",
+        "sf2-7.png",
+        "sf2-8.png",
+        "sf2-9.png"
+      ]
+    },
+    {
+      "game_name": "Super B-Daman Fighting Phoenix",
+      "file_names": [
+        "superb-1.png",
+        "superb-2.png"
+      ]
+    },
+    {
+      "game_name": "Super Black Bass Pocket",
+      "file_names": [
+        "supblack-1.png",
+        "supblack-2.png",
+        "supblack-3.png",
+        "supblack-4.png",
+        "supblack-5.png",
+        "supblack-6.png",
+        "supblack-7.png",
+        "supblack-8.png"
+      ]
+    },
+    {
+      "game_name": "Super Black Bass Pocket 2",
+      "file_names": [
+        "supblack2-1.png",
+        "supblack2-2.png",
+        "supblack2-3.png",
+        "supblack2-4.png",
+        "supblack2-5.png",
+        "supblack2-6.png",
+        "supblack2-7.png",
+        "supblack2-8.png"
+      ]
+    },
+    {
+      "game_name": "Super Bombliss DX",
+      "file_names": [
+        "supbombdx-1.png",
+        "supbombdx-2.png",
+        "supbombdx-3.png",
+        "supbombdx-4.png"
+      ]
+    },
+    {
+      "game_name": "Super Chinese Fighter",
+      "file_names": [
+        "supchinfig.png"
+      ]
+    },
+    {
+      "game_name": "Super Chinese Land 3",
+      "file_names": [
+        "supchin3.png"
+      ]
+    },
+    {
+      "game_name": "Super Chinese Land 3 Dash",
+      "file_names": [
+        "supchin3d.png"
+      ]
+    },
+    {
+      "game_name": "Super Chinese Land 1-2-3",
+      "file_names": [
+        "supchin123-1.png",
+        "supchin123-2.png",
+        "supchin123-3.png",
+        "supchin123-4.png"
+      ]
+    },
+    {
+      "game_name": "Super Game Boy",
+      "file_names": [
+        "supergameboy-1.png",
+        "supergameboy-2.png",
+        "supergameboy-3.png",
+        "supergameboy-4.png",
+        "supergameboy-5.png",
+        "supergameboy-6.png",
+        "supergameboy-7.png",
+        "supergameboy-8.png",
+        "supergameboy-9.png",
+        "supergameboy-10.png",
+        "supergameboy-11.png",
+        "supergameboy-12.png",
+        "supergameboy-13.png",
+        "supergameboy-14.png",
+        "supergameboy-15.png",
+        "supergameboy-16.png",
+        "supergameboy-17.png",
+        "supergameboy-18.png",
+        "supergameboy-19.png",
+        "supergameboy-20.png",
+        "supergameboy-21.png",
+        "supergameboy-22.png",
+        "supergameboy-23.png",
+        "supergameboy-24.png",
+        "supergameboy-25.png",
+        "supergameboy-26.png",
+        "supergameboy-27.png",
+        "supergameboy-28.png"
+      ]
+    },
+    {
+      "game_name": "Super Game Boy 2",
+      "file_names": [
+        "supergameboy2-1.png",
+        "supergameboy2-2.png",
+        "supergameboy2-3.png",
+        "supergameboy2-4.png",
+        "supergameboy2-5.png",
+        "supergameboy2-6.png",
+        "supergameboy2-7.png",
+        "supergameboy2-8.png",
+        "supergameboy2-9.png",
+        "supergameboy2-10.png",
+        "supergameboy2-11.png",
+        "supergameboy2-12.png",
+        "supergameboy2-13.png",
+        "supergameboy2-14.png",
+        "supergameboy2-15.png",
+        "supergameboy2-16.png",
+        "supergameboy2-17.png",
+        "supergameboy2-18.png",
+        "supergameboy2-19.png",
+        "supergameboy2-20.png",
+        "supergameboy2-21.png",
+        "supergameboy2-22.png",
+        "supergameboy2-23.png",
+        "supergameboy2-24.png",
+        "supergameboy2-25.png"
+      ]
+    },
+    {
+      "game_name": "Super Pachinko Wars",
+      "file_names": [
+        "suppachi.png"
+      ]
+    },
+    {
+      "game_name": "Super Robot Taisen: Link Battler",
+      "file_names": [
+        "suptai.png"
+      ]
+    },
+    {
+      "game_name": "Super Robot War 2G",
+      "file_names": [
+        "suprobot.png"
+      ]
+    },
+    {
+      "game_name": "Superman",
+      "file_names": [
+        "superman.png"
+      ]
+    },
+    {
+      "game_name": "Survival Kids (USA) / Stranded Kids (Euro) / Survival Kids: Kotou no Boukensha (Japan)",
+      "file_names": [
+        "survival1.png"
+      ]
+    },
+    {
+      "game_name": "Survival Kids 2 Dasshutsu!! Futago Shima!",
+      "file_names": [
+        "survival2.png"
+      ]
+    },
+    {
+      "game_name": "Sutte Hakkun GB (Unreleased)",
+      "file_names": [
+        "suttegb.png"
+      ]
+    },
+    {
+      "game_name": "Sweet Ange",
+      "file_names": [
+        "sweet.png"
+      ]
+    },
+    {
+      "game_name": "Sylvania Family: Otogi no Kuni no Pendant",
+      "file_names": [
+        "sylfam.png"
+      ]
+    },
+    {
+      "game_name": "Sylvania Melody: Mori no Nakama to Odori Mashi!",
+      "file_names": [
+        "sylmel.png"
+      ]
+    },
+    {
+      "game_name": "Tales of Phantasia: Narikiri Dungeon",
+      "file_names": [
+        "tales.png"
+      ]
+    },
+    {
+      "game_name": "Tamagotchi",
+      "file_names": [
+        "tamago-1.png",
+        "tamago-2.png",
+        "tamago-3.png",
+        "tamago-4.png",
+        "tamago-5.png"
+      ]
+    },
+    {
+      "game_name": "Tanimura Hitoshi Ryuu Pachinko Kouryaku Daisakusen: Don Quijote ga Iku",
+      "file_names": [
+        "tanimura.png"
+      ]
+    },
+    {
+      "game_name": "Tetris 2 (USA, Euro) (Re-release Only) / Tetris Flash (Japan)",
+      "file_names": [
+        "tetris2-1.png",
+        "tetris2-2.png",
+        "tetris2-3.png",
+        "tetris2-4.png",
+        "tetris2-5.png",
+        "tetris2-6.png"
+      ]
+    },
+    {
+      "game_name": "Tetris Attack (USA) / Yossy Panepon (Japan)",
+      "file_names": [
+        "tetrisattack-1.png",
+        "tetrisattack-2.png",
+        "tetrisattack-3.png",
+        "tetrisattack-4.png",
+        "tetrisattack-5.png",
+        "tetrisattack-6.png",
+        "tetrisattack-7.png"
+      ]
+    },
+    {
+      "game_name": "Tetris Blast (USA) / Super Bombliss (Japan)",
+      "file_names": [
+        "tetrisblast-1.png",
+        "tetrisblast-2.png",
+        "tetrisblast-3.png",
+        "tetrisblast-4.png"
+      ]
+    },
+    {
+      "game_name": "Tetris DX",
+      "file_names": [
+        "tetdx-1.png",
+        "tetdx-2.png"
+      ]
+    },
+    {
+      "game_name": "Tetris Plus",
+      "file_names": [
+        "tetplus.png"
+      ]
+    },
+    {
+      "game_name": "TinTin in Tibet",
+      "file_names": [
+        "tintin.png"
+      ]
+    },
+    {
+      "game_name": "TNN Outdoors Fishing Champ (USA) / Super Black Bass Pocket 3 (Japan)",
+      "file_names": [
+        "tnn-1.png",
+        "tnn-2.png",
+        "tnn-3.png",
+        "tnn-4.png",
+        "tnn-5.png",
+        "tnn-6.png",
+        "tnn-7.png",
+        "tnn-8.png",
+        "tnn-9.png",
+        "tnn-10.png"
+      ]
+    },
+    {
+      "game_name": "Tokimeki Memorial Pocket Culture Hen: Komorebi no Melody / Tokimeki Memorial Pocket Sport Hen: Koutei no Photograph",
+      "file_names": [
+        "tokimeki-1.png",
+        "tokimeki-2.png",
+        "tokimeki-3.png"
+      ]
+    },
+    {
+      "game_name": "Tokoro Jr.",
+      "file_names": [
+        "tokoro.png"
+      ]
+    },
+    {
+      "game_name": "Tokyo Disneyland Fantasy Tour",
+      "file_names": [
+        "tokyo.png"
+      ]
+    },
+    {
+      "game_name": "Totsugeki! Papparatai",
+      "file_names": [
+        "totsugeki.png"
+      ]
+    },
+    {
+      "game_name": "Tottemo! Lucky Man: Lucky Cookie Minna Daisuki!!",
+      "file_names": [
+        "totemo-1.png",
+        "totemo-2.png",
+        "totemo-3.png",
+        "totemo-4.png",
+        "totemo-5.png",
+        "totemo-6.png"
+      ]
+    },
+    {
+      "game_name": "Toy Story",
+      "file_names": [
+        "toystory1.png"
+      ]
+    },
+    {
+      "game_name": "Toy Story 2",
+      "file_names": [
+        "toystory2.png"
+      ]
+    },
+    {
+      "game_name": "Trade & Battle Card Hero",
+      "file_names": [
+        "trade.png"
+      ]
+    },
+    {
+      "game_name": "Tsume Go Series 1 Fujisawa Hideyuki Meiyo Kisei",
+      "file_names": [
+        "tsumego.png"
+      ]
+    },
+    {
+      "game_name": "Tsume Shougi: Kanki 5 Dan",
+      "file_names": [
+        "tsumeshougi.png"
+      ]
+    },
+    {
+      "game_name": "Tsuri Sensei",
+      "file_names": [
+        "tsuri1.png"
+      ]
+    },
+    {
+      "game_name": "Tsuri Sensei 2",
+      "file_names": [
+        "tsuri2.png"
+      ]
+    },
+    {
+      "game_name": "TV Champion",
+      "file_names": [
+        "tv.png"
+      ]
+    },
+    {
+      "game_name": "Ultraman Ball",
+      "file_names": [
+        "ultraball.png"
+      ]
+    },
+    {
+      "game_name": "Ultraman Gekiden",
+      "file_names": [
+        "ultrageki-1.png",
+        "ultrageki-2.png"
+      ]
+    },
+    {
+      "game_name": "Umi no Nushitsuri 2",
+      "file_names": [
+        "umi2-1.png",
+        "umi2-2.png",
+        "umi2-3.png",
+        "umi2-4.png"
+      ]
+    },
+    {
+      "game_name": "Urban Strike",
+      "file_names": [
+        "urban.png"
+      ]
+    },
+    {
+      "game_name": "Vegas Stakes",
+      "file_names": [
+        "vegas-1.png",
+        "vegas-2.png",
+        "vegas-3.png",
+        "vegas-4.png",
+        "vegas-5.png"
+      ]
+    },
+    {
+      "game_name": "Wario Blast",
+      "file_names": [
+        "warioblast.png"
+      ]
+    },
+    {
+      "game_name": "Warioland 2",
+      "file_names": [
+        "warioland2-1.png",
+        "warioland2-2.png",
+        "warioland2-3.png",
+        "warioland2-4.png",
+        "warioland2-5.png",
+        "warioland2-6.png",
+        "warioland2-7.png",
+        "warioland2-8.png",
+        "warioland2-9.png"
+      ]
+    },
+    {
+      "game_name": "Wedding Peach",
+      "file_names": [
+        "wedding-1.png",
+        "wedding-2.png",
+        "wedding-3.png",
+        "wedding-4.png"
+      ]
+    },
+    {
+      "game_name": "Wetrix GB (Japan)",
+      "file_names": [
+        "wetrix.png"
+      ]
+    },
+    {
+      "game_name": "WildSnake (USA) / Super Snakey (Japan)",
+      "file_names": [
+        "wildsnake-1.png",
+        "wildsnake-2.png",
+        "wildsnake-3.png",
+        "wildsnake-4.png"
+      ]
+    },
+    {
+      "game_name": "World Cup '98",
+      "file_names": [
+        "world98.png"
+      ]
+    },
+    {
+      "game_name": "World Heroes 2 Jet",
+      "file_names": [
+        "worldheroes.png"
+      ]
+    },
+    {
+      "game_name": "World Soccer GB",
+      "file_names": [
+        "worldsoc.png"
+      ]
+    },
+    {
+      "game_name": "World Soccer GB 2",
+      "file_names": [
+        "worldsoc2.png"
+      ]
+    },
+    {
+      "game_name": "Yu-Gi-Oh! Duel Monsters",
+      "file_names": [
+        "yugiduel1.png"
+      ]
+    },
+    {
+      "game_name": "Yu-Gi-Oh! Duel Monsters II Yamikai Kettouki",
+      "file_names": [
+        "yugiduel2.png"
+      ]
+    },
+    {
+      "game_name": "Yu-Gi-Oh! Monster Capsule GB",
+      "file_names": [
+        "yugimons-1.png",
+        "yugimons-2.png",
+        "yugimons-3.png"
+      ]
+    },
+    {
+      "game_name": "Yuu Yuu Hakusho Dai 4 Tama: Makai Touitsu",
+      "file_names": [
+        "yuyu.png"
+      ]
+    }
+  ]
+}
